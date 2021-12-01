@@ -12,4 +12,5 @@ body {
 .game-over {
   display: flex;
   justify-content: center;
+  font-weight: 500;
 }
